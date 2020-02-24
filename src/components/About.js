@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
     return (
-        <div className="collapsible-body"><span>
+        <div><span>
             <img id="headshot" alt="Headshot" src="./headshot.JPG"></img>
         <h1>About Me</h1>
         <p>My name is Marissa Fortier and I'm a 23-year-old marketing professional. I have a
